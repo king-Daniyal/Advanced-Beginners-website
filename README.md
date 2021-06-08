@@ -6,3 +6,4 @@ This project was made with glitch and i did alot of tesing and editing so please
 more website repos will be coming soon 
 
 ## Edits
+Create a foler ```src```
